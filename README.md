@@ -14,4 +14,4 @@
 [![WhatsApp](https://img.shields.io/badge/-Whatsapp-696969?style=for-the-badge&logo=Whatsapp&logoColor=075E54.)](https://wa.me/79222452331)
 [![Telegram](https://img.shields.io/badge/-Telegram-696969?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Avd4586)
 [![Discord](https://img.shields.io/badge/-Discord-696969?style=for-the-badge&logo=Discord&logoColor=5865F2)](https://discordapp.com/users/1064908835602583572/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-696969?style=for-the-badge&logo=LinkedIn&logoColor=7289DA)]()
+
